@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/durga-nishad-372060244/" style="text-decoration:none; border:none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-    <a href="mailto:Mr.Digeshwar05@gmail.com" style="text-decoration:none; border:none;">
+    <a href="mailto:durganishad05@gmail.com" style="text-decoration:none; border:none;">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/chakorisakho/" style="text-decoration:none; border:none;">
