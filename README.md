@@ -105,23 +105,6 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 ---
 
-## 🍔 Online Food Ordering System
-
-✔ Email OTP Verification
-
-✔ Forgot Password
-
-✔ Shopping Cart
-
-✔ Order Management
-
-✔ Payment Gateway
-
-✔ Admin Panel
-
-✔ Spring Boot + MySQL
-
----
 
 # 📊 GitHub Stats
 
