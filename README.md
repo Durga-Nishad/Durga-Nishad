@@ -23,8 +23,11 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Enthusiast;Learning+Docker+%7C+Kubernetes+%7C+Kafka;Always+Learning+New+Technologies" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Durga%20Nishad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot&descAlignY=60"/>
+</p> -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Durga%20Nishad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot&descAlignY=60&color=0:141E30,50:243B55,100:4CA1AF"/>
 </p>
 
 <p align="center">
@@ -49,9 +52,9 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Durga-Nishad&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
-</p>
+</p> -->
 
 <!-- ==================== END HEADER ==================== -->
 
