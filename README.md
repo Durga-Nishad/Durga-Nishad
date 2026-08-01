@@ -27,20 +27,20 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Durga%20Nishad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot&descAlignY=60"/>
 </p> -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Durga%20Nishad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot&descAlignY=60&color=0:141E30,50:243B55,100:4CA1AF"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Durga%20Nishad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot&descAlignY=60&color=0:141E30,50:243B55,100:4CA1AF"/>
 </p>
+<!-- <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer"/>
+</p> -->
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer"/>
 </p>
-
-
-
-
 
 <p align="center">
   <a href="https://github.com/Durga-Nishad">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-00C4FF?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
