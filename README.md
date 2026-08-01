@@ -26,13 +26,19 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Durga%20Nishad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot&descAlignY=60"/>
 </p> -->
-<p align="center">
+
+
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&height=180&text=Durga%20Nishad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot&descAlignY=60&color=0:141E30,50:243B55,100:4CA1AF"/>
-</p>
+</p> -->
+
+
 <!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer"/>
 </p> -->
-
+<p align="center">
+  <img src="./assets/header.svg" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer"/>
