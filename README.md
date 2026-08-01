@@ -196,7 +196,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 <p align="center">
 
 <a href="https://github.com/Durga-Nishad">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-00C4FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/durga-nishad-372060244/">
@@ -230,9 +230,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Durga-Nishad/Durga-Nishad/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://raw.githubusercontent.com/Durga-Nishad/Durga-Nishad/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>
 
 ---
