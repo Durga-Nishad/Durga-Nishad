@@ -13,7 +13,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <!-- ==================== HEADER ==================== -->
 
- <p align="center">
+<!-- <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,25,30&text=Durga%20Nishad&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20Spring%20Boot%20%7C%20Backend%20Developer&descAlignY=60&descSize=22"
   />
@@ -21,7 +21,15 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&random=false&width=800&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub+Profile;Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Enthusiast;Learning+Docker+%7C+Kubernetes+%7C+Kafka;Always+Learning+New+Technologies" />
-</p> 
+</p> -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=12,20,24,25,30&text=Durga%20Nishad&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot&descAlignY=60"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;Backend+Developer"/>
+</p>
 
 
 
@@ -80,7 +88,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 | API Testing | Postman, Swagger |
 | Build Tool | Maven |
 | Version Control | Git, GitHub |
-| IDE | IntelliJ IDEA, Eclipse, VS Code |
+| IDE | IntelliJ IDEA, Eclipse, VS Code, Spring Tool Suite, NetBeasbeans|
 | Learning | Docker, Kubernetes, Kafka |
 
 ---
@@ -110,9 +118,9 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Durga-Nishad&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Durga-Nishad&theme=tokyonight"/>
 
 </p>
 
@@ -122,7 +130,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durga-Nishad&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -132,7 +140,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Durga-Nishad&theme=tokyonight&row=1&column=6"/>
 
 </p>
 
@@ -142,7 +150,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Durga-Nishad&theme=tokyo-night"/>
 
 </p>
 
@@ -150,22 +158,53 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 # 🌐 Connect With Me
 
-<p align="center">
+<!-- <p align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Durga-Nishad">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-
 &nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/durga-nishad-372060244/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 &nbsp;&nbsp;&nbsp;
 
-<a href="mailto:your_email@gmail.com">
+<a href="mailto:durganishad05@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p> -->
+
+<!-- <p align="center">
+
+<a href="https://github.com/Durga-Nishad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+ 
+<a href="https://www.linkedin.com/in/durga-nishad-372060244/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:durganishad05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p> -->
+
+<p align="center">
+
+<a href="https://github.com/Durga-Nishad">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/durga-nishad-372060244/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:durganishad05@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -182,7 +221,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Durga-Nishad&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
@@ -192,7 +231,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Durga-Nishad/Durga-Nishad/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
