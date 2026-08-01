@@ -31,9 +31,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5FF&center=true&width=850&lines=%3E+Initializing+Developer...;%3E+Loading+Java+Environment...;%3E+Spring+Boot+Developer;%3E+Backend+Engineer;%3E+Welcome+to+my+GitHub+Profile"/>
 </p>
 
-<p align="center">
-  <img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-</p>
+
 
 <p align="center">
   <a href="https://github.com/Durga-Nishad">
