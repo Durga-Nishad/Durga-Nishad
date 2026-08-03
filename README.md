@@ -77,7 +77,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,html,css,js,git,github,docker,maven,postman,vscode,idea,eclipse"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,hibernate,maven,postman,docker,mysql,git,github,vscode,eclipse,netbeans"/>
 
 </p>
 
