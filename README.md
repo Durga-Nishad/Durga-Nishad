@@ -44,7 +44,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 
 <p align="center">
   <a href="https://github.com/Durga-Nishad">
-    <img src="https://img.shields.io/badge/GitHub-00C4FF?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -69,7 +69,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 - 🌱 Currently learning **Docker, Kubernetes & Kafka**
 - 🚀 Passionate about Backend Development
 - 📚 Exploring Microservices & Spring Security
-- 📫 Reach me at **your_email@gmail.com**
+- 📫 Reach me at **durganishad05@gmail.com**
 
 ---
 
@@ -203,7 +203,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 <p align="center">
 
 <a href="https://github.com/Durga-Nishad">
-<img src="https://img.shields.io/badge/GitHub-00C4FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/durga-nishad-372060244/">
