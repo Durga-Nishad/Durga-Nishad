@@ -132,7 +132,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 </p>
 
 ---
-
+<!--
 # 📈 Most Used Languages
 
 <p align="center">
@@ -146,13 +146,11 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Durga-Nishad&theme=tokyonight&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Durga-Nishad&theme=radical"/>
 </p>
 
 ---
-
+-->
 # 📈 Contribution Graph
 
 <p align="center">
