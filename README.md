@@ -88,7 +88,7 @@ Java Full Stack Developer | Spring Boot | Backend Enthusiast
 | Category | Technologies |
 |-----------|-------------|
 | Language | Java |
-| Backend | Spring Boot, Spring MVC, Spring Security |
+| Backend | Spring Boot, Spring MVC,REST APIs Spring Security |
 | ORM | Hibernate, Spring Data JPA |
 | Database | MySQL |
 | Frontend | HTML, CSS, JavaScript, Thymeleaf |
